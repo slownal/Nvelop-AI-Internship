@@ -4,9 +4,4 @@ This project demonstrates how to create various types of text entity annotations
 Python 3.6+
 labelbox library
 Installation
-Install the labelbox library if not already installed:
-
-bash
-Copy code
-pip install labelbox
-Code Overview
+Install the labelbox library if not already installed
